@@ -23,7 +23,7 @@ Actively working on improving coding skills to develop better websites and web a
 Currently focused on gaining more practical experience and developing skills in front-end development.
 SKILLS
 Front-End Technologies: HTML, CSS, JavaScript, React.js (Basic)
-Frameworks & Libraries: Bootstrap, Tailwind CSS, jQuery
+Frameworks & Libraries: Tailwind CSS, 
 Version Control: Git (GitHub)
 Other Skills: Communication skills, leadership, adaptability, problem-solving
 LINGUISTIC SKILLS
